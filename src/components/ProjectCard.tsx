@@ -198,7 +198,7 @@ const ProjectCard = ({ project, featured = false, linkLabel = 'View on GitHub' }
     if (featured) {
         return (
             <div className="grid md:grid-cols-2 gap-0 bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-xl transition-shadow duration-300">
-                <ImageGallery images={images} title={project.title} className="aspect-video md:aspect-auto min-h-64" />
+                <ImageGallery images={images} title={project.title} className="aspect-video md:aspect-auto md:min-h-64" />
                 <div className="p-8 flex flex-col justify-between">
                     <div>
                         <span className="uppercase tracking-widest font-bold text-xs text-brand-accent mb-3 block">

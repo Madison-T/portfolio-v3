@@ -25,14 +25,22 @@ const DataProjects = () => {
                 </div>
 
                 {/* 3 smaller cards in a row */}
-                <p className="text-xs text-brand-muted uppercase tracking-widest mb-4">Click a project to expand</p>
-                <div className="grid grid-cols-3 gap-6">
+                <div className="flex items-center justify-between mb-4">
+                    <p className="text-xs text-brand-muted uppercase tracking-widest">Click a project to expand</p>
+                    <p className="text-xs text-brand-muted flex items-center gap-1 md:hidden">
+                        Swipe to see more
+                        <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path d="M9 517 7-7-7" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                        </svg>
+                    </p>
+                </div>
+                <div className="flex md:grid md:grid-cols-3 md:gap-6 overflow-x-auto snap-x snap-mandatory pb-2 md:pb-0" style={{ scrollbarWidth: 'none'}}>
                     {rest.map(project => {
                         const originalIndex = dataProjects.indexOf(project)
                         return (
                             <div
                                 key={project.title}
-                                className="cursor-pointer transition-transform duration-200 hover:-translate-y-1"
+                                className="snap-start shrink-0 w-full md:w-auto pr-4 md:pr-0 cursor-pointer transition-transform duration-200 hover:-translate-y-1"
                                 onClick={() => {
                                     setFeaturedIndex(originalIndex)
                                     document.getElementById('data-science')?.scrollIntoView({ behavior: 'smooth' })
