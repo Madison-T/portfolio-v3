@@ -31,7 +31,7 @@ const About = () => {
                             <div className="absolute -top-4 -right-4 w-full h-full border-2 border-brand-accent rounded-2xl -z-10" />
                             {/* Portrait */}
                             <img
-                                src="/assets/portrait.png"
+                                src="/portfolio-v3/assets/portrait.png"
                                 alt="Madison"
                                 className="w-full rounded-2xl shadow-2xl grayscale hover:grayscale-0 transition-all duration-700"
                             />

@@ -4,7 +4,7 @@
     "type": "Full-Stack Web Application (Company: Mitre 10)",
     "range": "2025",
     "images": [
-      "/assets/screenshots/wms/wms-dash.png"
+      "/portfolio-v3/assets/screenshots/wms/wms-dash.png"
     ],
     "description": [
       "Built a full-stack Warehouse Management System to replace a legacy desktop WMS, featuring a dual-interface design — an internal admin dashboard and a store-facing portal.",
@@ -30,16 +30,16 @@
     "range": "2025",
     "url": "https://github.com/SCANLM1/Learning-Platform_Enhancments",
     "images": [
-      "/assets/screenshots/lms/lmsdd1.png",
-      "/assets/screenshots/lms/lmsdd.png",
-      "/assets/screenshots/lms/lmsdd2.png",
-      "/assets/screenshots/lms/lmsctc.png",
-      "/assets/screenshots/lms/lmsctc1.png",
-      "/assets/screenshots/lms/lmsfte.png",
-      "/assets/screenshots/lms/lmsfte1.png",
-      "/assets/screenshots/lms/lmscdb.png",
-      "/assets/screenshots/lms/lmscc.png",
-      "/assets/screenshots/lms/lmscc1.png"
+      "/portfolio-v3/assets/screenshots/lms/lmsdd1.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsdd.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsdd2.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsctc.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsctc1.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsfte.png",
+      "/portfolio-v3/assets/screenshots/lms/lmsfte1.png",
+      "/portfolio-v3/assets/screenshots/lms/lmscdb.png",
+      "/portfolio-v3/assets/screenshots/lms/lmscc.png",
+      "/portfolio-v3/assets/screenshots/lms/lmscc1.png"
     ],
     "description": [
       "Enhanced a client Learning Management System by refactoring legacy JavaScript/HTML code, building new interactive plugins and automating completion tracking.",
@@ -54,22 +54,22 @@
     "range": "2025",
     "url": "https://github.com/Madison-T/Do_Together",
     "images": ["/assets/screenshots/DoTogether/DoTogether1.png",
-      "/assets/screenshots/DoTogether/DoTogether2.png",
-      "/assets/screenshots/DoTogether/DoTogether3.png",
-      "/assets/screenshots/DoTogether/DoTogether4.png", 
-      "/assets/screenshots/DoTogether/DoTogether5.png", 
-      "/assets/screenshots/DoTogether/DoTogether6.png", 
-      "/assets/screenshots/DoTogether/DoTogether7.png", 
-      "/assets/screenshots/DoTogether/DoTogether8.png", 
-      "/assets/screenshots/DoTogether/DoTogether9.png", 
-      "/assets/screenshots/DoTogether/DoTogether10.png", 
-      "/assets/screenshots/DoTogether/DoTogether11.png", 
-      "/assets/screenshots/DoTogether/DoTogether12.png", 
-      "/assets/screenshots/DoTogether/DoTogether13.png", 
-      "/assets/screenshots/DoTogether/DoTogether14.png", 
-      "/assets/screenshots/DoTogether/DoTogether15.png", 
-      "/assets/screenshots/DoTogether/DoTogether16.png", 
-      "/assets/screenshots/DoTogether/DoTogether17.png"],
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether2.png",
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether3.png",
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether4.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether5.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether6.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether7.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether8.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether9.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether10.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether11.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether12.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether13.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether14.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether15.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether16.png", 
+      "/portfolio-v3/assets/screenshots/DoTogether/DoTogether17.png"],
     "description": [
       "Developed a cross-platform mobile app for friend groups to vote on activities with real data sync, integrated authentication, and location-based data using cloud services.",
       "Drove the project through the full software development life cycle, from requirements gathering and prototyping to deployment and testing.",
@@ -83,12 +83,12 @@
     "range": "2025",
     "url": "https://github.com/Madison-T/my-blog",
     "images": [
-      "/assets/screenshots/blog/blog5.png",
-      "/assets/screenshots/blog/blog2.png",
-      "/assets/screenshots/blog/blog3.png",
-      "/assets/screenshots/blog/blog4.png",
-      "/assets/screenshots/blog/blog1.png",
-      "/assets/screenshots/blog/blog6.png"
+      "/portfolio-v3/assets/screenshots/blog/blog5.png",
+      "/portfolio-v3/assets/screenshots/blog/blog2.png",
+      "/portfolio-v3/assets/screenshots/blog/blog3.png",
+      "/portfolio-v3/assets/screenshots/blog/blog4.png",
+      "/portfolio-v3/assets/screenshots/blog/blog1.png",
+      "/portfolio-v3/assets/screenshots/blog/blog6.png"
     ],
     "description": [
       "Focused on backend integration and deployment workflows as a personal project to practice full-stack delivery.",
@@ -112,7 +112,7 @@
     "type": "Academic Project",
     "range": "2023",
     "images": [
-      "/assets/screenshots/sqldb.jpg"
+      "/portfolio-v3/assets/screenshots/sqldb.jpg"
     ],
     "description": [
       "Designed and implemented a fully normalized relational database system.",
@@ -127,11 +127,11 @@
     "range": "2025",
     "url": "https://github.com/Madison-T/",
     "images": [
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png"
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png"
     ],
     "description": [
       "Originally built as part of my Web Development course at AUT. This project demonstrates full CRUD functionality using PHP and SQL, including input validation, error handling, and dynamic database interaction. The archived version is included on GitHub as reference, since the original ran on AUT’s webdev server.",
@@ -147,11 +147,11 @@
     "range": "2025",
     "url": "https://github.com/Madison-T/",
     "images": [
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png",
-      "/assets/screenshots/folder/file.png"
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png",
+      "/portfolio-v3/assets/screenshots/folder/file.png"
     ],
     "description": [
       "Originally built as part of my Web Development course at AUT. This project demonstrates AJAX-based client–server communication with PHP and MySQL, including dynamic booking forms, server-side validation, and an admin interface for managing assignments. The archived version is included on GitHub as reference, since the original ran on AUT’s webdev server.",
