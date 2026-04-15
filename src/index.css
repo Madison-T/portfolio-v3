@@ -1,0 +1,31 @@
+@import '@fontsource/inter/300.css';
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+@import '@fontsource/playfair-display/700.css';
+@import '@fontsource/playfair-display/800.css';
+
+/* These three lines inject Tailwind's CSS into your stylesheet.
+   base = browser resets, components = reusable classes, utilities = all the tw- classes */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global base styles - these apply to the whole page */
+body {
+  background-color: #F4F4F4;
+  color: #1A1A1A;
+  font-family: 'Inter', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth; /* makes anchor links (#section) scroll smoothly instead of jumping */
+}
+
+/* Changes the highlight colour when you select text on the page */
+::selection {
+  background-color: #3B82F6;
+  color: white;
+}

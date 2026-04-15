@@ -1,0 +1,193 @@
+[
+    {
+    "title": "Warehouse Management System",
+    "type": "Full-Stack Web Application (Company: Mitre 10)",
+    "range": "2025",
+    "images": [
+      "/assets/screenshots/wms/wms-dash.png"
+    ],
+    "description": [
+      "Built a full-stack Warehouse Management System to replace a legacy desktop WMS, featuring a dual-interface design — an internal admin dashboard and a store-facing portal.",
+      "Designed and implemented a relational MySQL database schema with full audit trail support, including inventory movement history and stock adjustment tracking.",
+      "Developed RESTful API routes in Next.js covering products, orders, quotes, purchase orders, customers, and stock adjustments — all with role-based access control.",
+      "Implemented an immutable stock adjustment system with transactional quantity updates, auto-generated reference numbers, and a full before/after audit trail.",
+      "Integrated AWS services including S3 for product image storage, SES for email notifications, and ALB OIDC for SSO-only authentication.",
+      "Containerised the application with Docker and deployed to AWS ECS/Fargate via a CI/CD pipeline using Bitbucket Pipelines with OIDC."
+    ],
+    "tech": [
+      "Next.js 15",
+      "TypeScript",
+      "React 19",
+      "MySQL",
+      "Tailwind CSS",
+      "AWS (S3, SES, ECS, ALB)",
+      "Docker"
+    ]
+  },
+  {
+    "title": "Custom Learning Tools",
+    "type": "Research & Development Project (Company: Foster Moore)",
+    "range": "2025",
+    "url": "https://github.com/SCANLM1/Learning-Platform_Enhancments",
+    "images": [
+      "/assets/screenshots/lms/lmsdd1.png",
+      "/assets/screenshots/lms/lmsdd.png",
+      "/assets/screenshots/lms/lmsdd2.png",
+      "/assets/screenshots/lms/lmsctc.png",
+      "/assets/screenshots/lms/lmsctc1.png",
+      "/assets/screenshots/lms/lmsfte.png",
+      "/assets/screenshots/lms/lmsfte1.png",
+      "/assets/screenshots/lms/lmscdb.png",
+      "/assets/screenshots/lms/lmscc.png",
+      "/assets/screenshots/lms/lmscc1.png"
+    ],
+    "description": [
+      "Enhanced a client Learning Management System by refactoring legacy JavaScript/HTML code, building new interactive plugins and automating completion tracking.",
+      "Worked directly with clients to gather requirements and conduct iterative testing.",
+      "Applied Agile practices and Git-based workflows to deliver solutions on time and to specification."
+    ],
+    "tech": ["JavaScript", "HTML", "CSS", "API Integration", "Agile"]
+  },
+  {
+    "title": "Group Decision App",
+    "type": "Academic Project",
+    "range": "2025",
+    "url": "https://github.com/Madison-T/Do_Together",
+    "images": ["/assets/screenshots/DoTogether/DoTogether1.png",
+      "/assets/screenshots/DoTogether/DoTogether2.png",
+      "/assets/screenshots/DoTogether/DoTogether3.png",
+      "/assets/screenshots/DoTogether/DoTogether4.png", 
+      "/assets/screenshots/DoTogether/DoTogether5.png", 
+      "/assets/screenshots/DoTogether/DoTogether6.png", 
+      "/assets/screenshots/DoTogether/DoTogether7.png", 
+      "/assets/screenshots/DoTogether/DoTogether8.png", 
+      "/assets/screenshots/DoTogether/DoTogether9.png", 
+      "/assets/screenshots/DoTogether/DoTogether10.png", 
+      "/assets/screenshots/DoTogether/DoTogether11.png", 
+      "/assets/screenshots/DoTogether/DoTogether12.png", 
+      "/assets/screenshots/DoTogether/DoTogether13.png", 
+      "/assets/screenshots/DoTogether/DoTogether14.png", 
+      "/assets/screenshots/DoTogether/DoTogether15.png", 
+      "/assets/screenshots/DoTogether/DoTogether16.png", 
+      "/assets/screenshots/DoTogether/DoTogether17.png"],
+    "description": [
+      "Developed a cross-platform mobile app for friend groups to vote on activities with real data sync, integrated authentication, and location-based data using cloud services.",
+      "Drove the project through the full software development life cycle, from requirements gathering and prototyping to deployment and testing.",
+      "Collaborated in an Agile team environment, applying sprint planning, code reviews, and iterative feedback to deliver a reliable and user-friendly product."
+    ],
+    "tech": ["React Native", "Firebase", "Google Places API", "Expo"]
+  },
+  {
+    "title": "Full-Stack Blog Platform",
+    "type": "Personal Project",
+    "range": "2025",
+    "url": "https://github.com/Madison-T/my-blog",
+    "images": [
+      "/assets/screenshots/blog/blog5.png",
+      "/assets/screenshots/blog/blog2.png",
+      "/assets/screenshots/blog/blog3.png",
+      "/assets/screenshots/blog/blog4.png",
+      "/assets/screenshots/blog/blog1.png",
+      "/assets/screenshots/blog/blog6.png"
+    ],
+    "description": [
+      "Focused on backend integration and deployment workflows as a personal project to practice full-stack delivery.",
+      "Built a secure blogging platform featuring user authentication, rich text editing, and image upload capabilities.",
+      "Integrated Firebase services (Auth, Firestore, Storage) for real-time data handling and secure content management.",
+      "Designed responsive UI components with TailwindCSS, ensuring accessibility across devices.",
+      "Implemented automated CI/CD pipelines with GitHub Actions and deployed the application to Vercel.",
+      "Gained hands-on experience balancing frontend usability with backend security and scalability."
+    ],
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "Firebase (Auth, Firestore, Storage)",
+      "Vercel",
+      "GitHub Actions"
+    ]
+  },
+  {
+    "title": "SQL Database System",
+    "type": "Academic Project",
+    "range": "2023",
+    "images": [
+      "/assets/screenshots/sqldb.jpg"
+    ],
+    "description": [
+      "Designed and implemented a fully normalized relational database system.",
+      "Created ER diagrams in Visual Paradigm and developed the schema in Oracle SQL with realistic test data.",
+      "Built advanced queries and reports to support business operations and decision making."
+    ],
+    "tech": ["Oracle SQL", "Visual Paradigm", "Database System Design", "ERD"]
+  },
+  {
+    "title": "Status Posting Web App",
+    "type": "Academic Project",
+    "range": "2025",
+    "url": "https://github.com/Madison-T/",
+    "images": [
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png"
+    ],
+    "description": [
+      "Originally built as part of my Web Development course at AUT. This project demonstrates full CRUD functionality using PHP and SQL, including input validation, error handling, and dynamic database interaction. The archived version is included on GitHub as reference, since the original ran on AUT’s webdev server.",
+      "Designed and developed a diary-style status posting system for a social networking site, featuring input validation, error handling, and persistent SQL-based storage.",
+      "Implemented posting, searching, and retrieval functionality with PHP forms and SQL queries, including validation of codes, dates, and text formats.",
+      "Delivered a fully functional web app with a styled interface, confirmation/error messages, and reset functionality, deployed and tested on the AUT webdev server."
+    ],
+    "tech": ["PHP", "HTML", "CSS", "SQL"]
+  },
+  {
+    "title": "AJAX Taxi Booking and Admin System",
+    "type": "Academic Project",
+    "range": "2025",
+    "url": "https://github.com/Madison-T/",
+    "images": [
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png",
+      "/assets/screenshots/folder/file.png"
+    ],
+    "description": [
+      "Originally built as part of my Web Development course at AUT. This project demonstrates AJAX-based client–server communication with PHP and MySQL, including dynamic booking forms, server-side validation, and an admin interface for managing assignments. The archived version is included on GitHub as reference, since the original ran on AUT’s webdev server.",
+      "Built an AJAX-based taxi booking platform that allowed customers to submit validated booking requests with unique reference IDs, stored in a MySQL database.",
+      "Developed an admin interface to search, view, and assign pending bookings in real time, including status updates and confirmation messaging.",
+      "Delivered a fully functional two-part system (booking and admin) with dynamic input validation, client–server communication via Fetch, and SQL-backed persistence, tested and deployed on AUT’s webdev server."
+    ],
+    "tech": ["JavaScript (Fetch API)", "PHP", "HTML", "CSS", "MySQL"]
+  },
+  {
+    "title": "Evidence-Based Practice Submission & Search Platform",
+    "type": "Academic Project",
+    "range": "2024",
+    "url": "https://github.com/Madison-T/SPEED_Development_Articles",
+    "description": [
+      "Built a responsive full-stack platform with secure role-based authentication and user-friendly interfaces.",
+      "Designed and implemented CRUD functionality and RESTful APIs for submitting, moderating, and browsing research claims.",
+      "Set up automated CI/CD pipelines and deployed the app to Vercel for seamless updates.",
+      "Applied the full software development life cycle, from requirements gathering and database design to testing and release.",
+      "Collaborated in an Agile team using sprint planning, stand-ups, and peer code reviews to drive continuous improvement.",
+      "Enabled researchers to share, validate, and access claims more efficiently, improving collaboration and transparency."
+    ],
+    "tech": ["MongoDB", "Nest.js", "Next.js", "Node.js", "Vercel"]
+  },
+  {
+    "title": "Interactive Virtual Pet Game",
+    "type": "Academic Project",
+    "range": "2023",
+    "url": "https://github.com/christjamess/pdcfinal",
+    "images": [
+     ],
+    "description": [
+      "Co-developed a desktop-based virtual pet simulation game with a graphical user interface for creating, interacting with, and managing digital pets.",
+      "Implemented full CRUD functionality with persistent state management and database integration for saving and retrieving pet data.",
+      "Designed a modular, object-oriented architecture with dynamic pet behaviors, enhancing user engagement and maintainability."
+    ],
+    "tech": ["Java", "Swing", "Object-Oriented Programming"]
+  }
+]
